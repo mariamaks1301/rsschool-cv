@@ -31,5 +31,25 @@ React (Basic)
 + Js (Basic)
 + React/ Redux-toolkit (Basic)
 *********
+#### Code example:
+``` function reverseWords(str) {
+    
+   return str.split(' ').map((item)=> {
+       return item.split('').reverse().join('')
+   }).join(' ')
+   }
+
+  console.log(reverseWords("This is an example!"));
+  console.log(reverseWords("double  spaces"));
+```
+
+#### My CodeWars Page [CodeWars](адрес "[https://www.linkedin.com/in/maria-maks-334258267/](https://www.codewars.com/dashboard)")
+
+*********
+#### Languages:
+  * Russian - native
+  * English - A2
+
+
 
 
