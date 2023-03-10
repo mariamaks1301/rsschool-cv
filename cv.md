@@ -32,18 +32,10 @@ React (Basic)
 + React/ Redux-toolkit (Basic)
 *********
 #### Code example:
-``` function reverseWords(str) {
-    
-   return str.split(' ').map((item)=> {
-       return item.split('').reverse().join('')
-   }).join(' ')
-   }
+<img width="827" alt="image:code" src="https://user-images.githubusercontent.com/85901830/224378876-ab90991e-39cd-43b0-89b3-e8cf95521026.png">
 
-  console.log(reverseWords("This is an example!"));
-  console.log(reverseWords("double  spaces"));
-```
 
-#### My CodeWars Page [CodeWars](адрес "[https://www.linkedin.com/in/maria-maks-334258267/](https://www.codewars.com/dashboard)")
+#### My CodeWars Page [CodeWars](адрес "[[https://www.linkedin.com/in/maria-maks-334258267/](https://www.codewars.com/dashboard](https://www.codewars.com/users/mariamaks1301/completed_solutions))")
 
 *********
 #### Languages:
